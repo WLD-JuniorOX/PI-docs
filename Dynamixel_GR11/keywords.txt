@@ -1,0 +1,47 @@
+#######################################
+# Syntax Coloring Map For Dynamixel_GR11
+#######################################
+ 
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ 
+AX12A	KEYWORD1
+ErrorFlag	KEYWORD1
+ 
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+ 
+begin	KEYWORD2
+Ping	KEYWORD2
+ActivateTorque	KEYWORD2
+DeactivateTorque	KEYWORD2
+Move	KEYWORD2
+SetSpeed	KEYWORD2
+SetStatusReturnLevel	KEYWORD2
+SetRotationMode	KEYWORD2
+CurrentStatus	KEYWORD2
+CurrentPosition	KEYWORD2
+CurrentSpeed	KEYWORD2
+CurrentLoad	KEYWORD2
+CurrentTemperature	KEYWORD2
+CurrentVoltage	KEYWORD2
+IsMoving	KEYWORD2
+CurrentRotationMode	KEYWORD2
+GetError	KEYWORD2
+PrintError	KEYWORD2
+ 
+#######################################
+# Constants (LITERAL1)
+#######################################
+ 
+ERR_NONE	LITERAL1
+ERR_VOLTAGE	LITERAL1
+ERR_ANGLE_LIMIT	LITERAL1
+ERR_OVERHEAT	LITERAL1
+ERR_RANGE	LITERAL1
+ERR_CHECKSUM	LITERAL1
+ERR_OVERLOAD	LITERAL1
+ERR_INSTRUCTION	LITERAL1
+ERR_COMM	LITERAL1
